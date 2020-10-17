@@ -1,0 +1,49 @@
+{
+	"id": "af6ed2ec-8379-4d32-8c5b-67bdff5f737b",
+	"values": [
+		{
+			"key": "token",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "prodID",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "prodDesc",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "prodName",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "prodPrice",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "updateProdDesc",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "updateProdName",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "updateProdPrice",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"name": "Newwspc1 Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2020-10-15T13:51:44.370Z",
+	"_postman_exported_using": "Postman/7.34.0"
+}
